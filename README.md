@@ -1,5 +1,5 @@
 # awesome-AI-ML
-𝟮𝟳 𝗔𝗜/𝗠𝗟 𝗚𝗶𝘁𝗵𝘂𝗯 𝗿𝗲𝗽𝗼𝘀 you'll find interesting 👇 (+ short description on each)
+𝟮1 𝗔𝗜/𝗠𝗟 𝗚𝗶𝘁𝗵𝘂𝗯 𝗿𝗲𝗽𝗼𝘀 you'll find interesting 👇 (+ short description on each)
 
 1. 𝗙𝗶𝗿𝗲𝗰𝗿𝗮𝘄𝗹 
 Crawl websites to LLM-ready data with a single API.
